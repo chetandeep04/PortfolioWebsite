@@ -51,11 +51,30 @@
       float: none;
     }
   }
+
   .header{
     margin-left:40px ;
     margin-top: 100px;
     height: 300px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
-  
-  
+  .head{
+    font-size: 70px;
+  }
+  #skills{
+    margin: 0 auto;
+    width:1000px
+  }
+  #home{
+    margin: 0 auto;
+    width: 1200px;
+    height: 500px;
+  }
+  #projects{
+    margin: 0 auto;
+    width:1000px
+  }
+  #about{
+    margin: 0 auto;
+    width: 1000px;
+  }
